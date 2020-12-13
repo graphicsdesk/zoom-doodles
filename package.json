@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "zoom-doodles",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -33,6 +33,6 @@
     "USE_EYE_NAV": false,
     "USE_COVER_HED": false,
     "IS_EMBED": false,
-    "DOC_URL": null
+    "DOC_URL": "https://docs.google.com/document/u/6/d/1g5nl1c4vcKb7GWw2z-DlSYi1c0XeCoSjMkaGJl0EObs/edit"
   }
 }
