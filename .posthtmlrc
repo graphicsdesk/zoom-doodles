@@ -8,7 +8,7 @@
       "locals": {
         "top": [],
         "body": [],
-        "USE_NEWS_NAV": false,
+        "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
